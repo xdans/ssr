@@ -1,28 +1,27 @@
-´î½¨SSR
-
-1¡¢ÔÚÃüÁîĞĞÊäÈëÈçÏÂÃüÁî£º
-
+æ­å»ºSSR
+[1]
 wget --no-check-certificate https://freed.ga/github/shadowsocksR.sh; bash shadowsocksR.sh
 
-2¡¢ÈôÌáÊ¾£ºwget :command not found
+[2]
+è‹¥æç¤ºï¼šwget :command not found
+è¯·æ‰§è¡Œï¼šyum install wget -y
 
-ÇëÖ´ĞĞ£ºyum install wget -y
+[3]
+ç„¶åå†è¾“å…¥å‘½ä»¤ï¼šwget --no-check-certificate https://freed.ga/github/shadowsocksR.sh; bash shadowsocksR.sh
 
-È»ºóÔÙÊäÈëÃüÁî£ºwget --no-check-certificate https://freed.ga/github/shadowsocksR.sh; bash shadowsocksR.sh
 
+å®‰è£…é”é€Ÿ
 
-°²×°ÈñËÙ
-
-1¡¢Ò»¼ü¸ü»»ÄÚºË½Å±¾£¨Vultr¡¢×İºáÊı¾İĞèÏÈÖ´ĞĞ´Ë½Å±¾£©
-
+[1]
+ä¸€é”®æ›´æ¢å†…æ ¸è„šæœ¬ï¼ˆVultrã€çºµæ¨ªæ•°æ®éœ€å…ˆæ‰§è¡Œæ­¤è„šæœ¬ï¼‰
 wget -N --no-check-certificate https://freed.ga/kernel/ruisu.sh && bash ruisu.sh
 
-½Å±¾°²×°ĞèÒª1-3·ÖÖÓ£¬ÄÍĞÄµÈ´ı·şÎñÆ÷ÖØÆô£¬·şÎñÆ÷ÖØÆôÖ®ºó£¬ÖØĞÂÁ¬½Ó¼ÌĞø°²×°¾ÍĞĞÁË¡£
 
-2¡¢ÈñËÙ°²×°½Å±¾
 
+[2]
+é”é€Ÿå®‰è£…è„šæœ¬
 wget -N --no-check-certificate https://github.com/91yun/serverspeeder/raw/master/serverspeeder.sh && bash serverspeeder.sh
 
-Èç¹û²»³É¹¦¿ÉÒÔÊ¹ÓÃ±¸ÓÃ½Å±¾
-
+[2.1]
+å¦‚æœä¸æˆåŠŸå¯ä»¥ä½¿ç”¨å¤‡ç”¨è„šæœ¬
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
